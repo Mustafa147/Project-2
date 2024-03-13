@@ -1,1 +1,1 @@
-Project Tindog:
+Project Tindog
